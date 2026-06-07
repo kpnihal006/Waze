@@ -1,10 +1,7 @@
 # Waze
-Data analysis of Waze project (part of Google Advanced Data Analytics Certification)
-This project is completed as a part of the Google Advanced Data Analytics Capstone Project.
-It utilizes data analytics concepts and techniques covered in the professional certification course.
+User churn prediction for a navigation platform — XGBoost and Random Forest classifiers with EDA, feature engineering, and statistical analysis. Activity days identified as primary churn driver. Includes retention strategy recommendations.
 
 ## Overview
-Waze is a fictitious company created for educational purposes only and any reference is coincidental.
 Waze is a navigational app which guides users from one location to another. It has seen a decline in its usage
 and has requested an analysis of their user data to predict user churn.
 
